@@ -6,6 +6,6 @@ Once you've completed a step, check back at the Wheelhouse class to see whether 
 
 Happy learning!
 
-```function(r, w) {
-  const a = r + w;
+```function(b, c) {
+  const a = b + c;
 }```
